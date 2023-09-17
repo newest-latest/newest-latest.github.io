@@ -16,3 +16,7 @@ Fell in love with tech thanks to Walter Isaacson's book 'the innovators'.
 ## Links
 
 * [LinkedIn](https://www.linkedin.com/in/camilo-melendez-b3ba461a9)
+
+ > A blockquote indicates that the content is a quote, an e-mail being replied to, etc.
+ > 
+ > Every line (blank or not) of a blockquote begins with `>`, followed by a space.
