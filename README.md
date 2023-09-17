@@ -9,7 +9,7 @@ Fell in love with tech thanks to Walter Isaacson's book 'the innovators'.
 
 ## Current Projects
 
- * Hello World: Java console application
+ * [Hello World: Java console application]({https://github.com/ddc-java-16/hello-world-newest-latest})
       
  * Hello World: Android app
  
