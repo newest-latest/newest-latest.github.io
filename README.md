@@ -14,3 +14,5 @@ Fell in love with tech thanks to Walter Isaacson's book 'the innovators'.
  * Hello World: Android app
  
 ## Links
+
+* [LinkedIn](https://www.linkedin.com/in/camilo-melendez-b3ba461a9)
