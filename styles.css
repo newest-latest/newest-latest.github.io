@@ -11,8 +11,7 @@ body {
 	max-height: 100vh;
 	overflow: hidden;
 }
-.image-container img{ width:100%;
-	max-height: calc(100vh/6);
+.image-container img{ 
 	object-fit: contain;
 	height: calc(100vh/6);
 }
