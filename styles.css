@@ -14,7 +14,7 @@ body {
 .image-container img{ width:100%;
 	max-height: calc(100vh/6);
 	object-fit: contain;
-	height: auto;
+	height: calc(100vh/6);
 }
 h1 {
   font-weight: bold;
